@@ -1,4 +1,4 @@
-[Demo video](https://youtu.be/XwyAqjRocRQ)
+[Demo video](https://youtu.be/tuJAf6E5vLE)
 # reactnativeaudioplayer
 <div style="display:flex;">
 <img src="https://res.cloudinary.com/navtech/image/upload/v1633172006/Screenshot_1630326375_di1p0w.png" style="object-fit:contain;" width="240"/>
