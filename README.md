@@ -1,9 +1,11 @@
 [Demo video](https://youtu.be/tuJAf6E5vLE)
 # reactnativeaudioplayer
-## Features
-### play/pause
-### add to favourites
-<strong>repeat</strong>
+
+- Play/pause/forward
+- Repeat song
+- Add to favourites
+- Search for a song
+
 <div style="display:flex;">
 <img src="https://res.cloudinary.com/navtech/image/upload/v1633172006/Screenshot_1630326375_di1p0w.png" style="object-fit:contain;" width="240"/>
 <img src="https://res.cloudinary.com/navtech/image/upload/v1633172085/Screenshot_1630327377_hy1t9a.png" style="object-fit:contain;" width="240"/>
